@@ -37,6 +37,21 @@ $ tic -sx st.info
 
 See the man page for additional details.
 
+## Patchs
+
+This repo include 4 patchs for st
+
+- Scrollback
+- Scrollback-mouse
+- Scrollback-mouse-altscreen
+- Xresource
+
+To apply a patch
+
+```
+$ git apply {{ patch }}
+```
+
 ## Credits
 
 Based on Aurélien APTEL <aurelien dot aptel at gmail dot com> bt source code.
